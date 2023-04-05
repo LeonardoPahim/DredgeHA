@@ -1,5 +1,5 @@
 #     🛥️ DredgeHA 🛥️ 
-## Home Assistant interaction with DREDGE
+## Home Assistant interaction with the game DREDGE
 
 Requirements:
 - Home Assistant instance on your local network
